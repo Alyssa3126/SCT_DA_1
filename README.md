@@ -24,6 +24,7 @@ This project involves transforming raw **Superstore sales** data into an interac
 ​- Regional Distribution: The West region contributes the largest share of total revenue.
 
 ## Repository Contents
-'Task1.xlsx': The final file containing the dataset,pivot tables and dashboard.
+
+Sales1.xlsx': The final file containing the dataset,pivot tables and dashboard.
 
 'README.md':Project documentation.
