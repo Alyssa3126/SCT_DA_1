@@ -28,3 +28,7 @@ This project involves transforming raw **Superstore sales** data into an interac
 Sales1.xlsx': The final file containing the dataset,pivot tables and dashboard.
 
 'README.md':Project documentation.
+
+## Dataset Information
+
+The Dataset was provided by the internship instructors and is a variation of the **Superstore Sales Dataset**, found on [kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
